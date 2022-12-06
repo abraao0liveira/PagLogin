@@ -1,0 +1,15 @@
+/home/abraao0liveira/RiderProjects/PagLogin/PagLogin/bin/Debug/net6.0/PagLogin
+/home/abraao0liveira/RiderProjects/PagLogin/PagLogin/bin/Debug/net6.0/PagLogin.deps.json
+/home/abraao0liveira/RiderProjects/PagLogin/PagLogin/bin/Debug/net6.0/PagLogin.runtimeconfig.json
+/home/abraao0liveira/RiderProjects/PagLogin/PagLogin/bin/Debug/net6.0/PagLogin.dll
+/home/abraao0liveira/RiderProjects/PagLogin/PagLogin/bin/Debug/net6.0/PagLogin.pdb
+/home/abraao0liveira/RiderProjects/PagLogin/PagLogin/obj/Debug/net6.0/PagLogin.csproj.AssemblyReference.cache
+/home/abraao0liveira/RiderProjects/PagLogin/PagLogin/obj/Debug/net6.0/PagLogin.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao0liveira/RiderProjects/PagLogin/PagLogin/obj/Debug/net6.0/PagLogin.AssemblyInfoInputs.cache
+/home/abraao0liveira/RiderProjects/PagLogin/PagLogin/obj/Debug/net6.0/PagLogin.AssemblyInfo.cs
+/home/abraao0liveira/RiderProjects/PagLogin/PagLogin/obj/Debug/net6.0/PagLogin.csproj.CoreCompileInputs.cache
+/home/abraao0liveira/RiderProjects/PagLogin/PagLogin/obj/Debug/net6.0/PagLogin.dll
+/home/abraao0liveira/RiderProjects/PagLogin/PagLogin/obj/Debug/net6.0/refint/PagLogin.dll
+/home/abraao0liveira/RiderProjects/PagLogin/PagLogin/obj/Debug/net6.0/PagLogin.pdb
+/home/abraao0liveira/RiderProjects/PagLogin/PagLogin/obj/Debug/net6.0/PagLogin.genruntimeconfig.cache
+/home/abraao0liveira/RiderProjects/PagLogin/PagLogin/obj/Debug/net6.0/ref/PagLogin.dll
